@@ -22,7 +22,7 @@ Milliy sertifikat va o'qituvchilar attestatsiyasiga tayyorlov uchun matematika p
 
 <a href="https://idrok.io"><img src="assets/idrok.png" alt="idrok.io bosh sahifasi" width="100%" /></a>
 
-- 📚 **23 mavzu · 134 dars · 2 680 ta yechilgan masala · 4 ta to'liq mock imtihon**
+- 📚 **23 mavzu · 134 dars · 4 320 ta yechilgan masala · 4 ta to'liq mock imtihon**
 - 🎬 Har bir masala doskada **ovozli animatsiya** bilan bosqichma-bosqich yechiladi
 - 📝 Mock imtihonlar haqiqiy format va vaqtda (45 savol, 2 soat 30 daqiqa)
 - 🔐 Telegram orqali parolsiz kirish, mobil va Telegram ichida ishlaydi
