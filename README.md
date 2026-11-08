@@ -30,18 +30,6 @@ Milliy sertifikat va o'qituvchilar attestatsiyasiga tayyorlov uchun matematika p
 
 `TypeScript` `Next.js` `LaTeX` `Telegram Login` `Animatsiya`
 
-### 🐹 [godasturchi.uz](https://godasturchi.uz) — *"Simple. Fast. Powerful."*
-O'zbek tilidagi bepul **Go (Golang)** o'quv platformasi.
-
-<a href="https://godasturchi.uz"><img src="assets/godasturchi.jpg" alt="godasturchi.uz bosh sahifasi" width="100%" /></a>
-
-- 📖 Noldan yozilgan darslar
-- 🧩 **410 ta amaliy masala** (Abramyan va LeetCode asosida)
-- 💻 Brauzerning o'zida ishlaydigan **Go kod muharriri**
-- 🎯 Boshlovchilar, intervyu va olimpiadaga tayyorlanuvchilar uchun
-
-`Go` `Next.js` `TypeScript` `Online Code Runner`
-
 ### 📐 [mathmodel.uz](https://mathmodel.uz) — *"Olam ortidagi matematikani kashf eting."*
 Oliy matematika va matematik modellashtirish bo'yicha bepul o'zbekcha kurslar.
 
@@ -53,6 +41,18 @@ Oliy matematika va matematik modellashtirish bo'yicha bepul o'zbekcha kurslar.
 - 🌊 Interaktiv simulyatsiyalar va 6 bosqichli modellashtirish metodikasi
 
 `Next.js` `Python (WASM)` `NumPy` `SciPy` `LaTeX`
+
+### 🐹 [godasturchi.uz](https://godasturchi.uz) — *"Simple. Fast. Powerful."*
+O'zbek tilidagi bepul **Go (Golang)** o'quv platformasi.
+
+<a href="https://godasturchi.uz"><img src="assets/godasturchi.jpg" alt="godasturchi.uz bosh sahifasi" width="100%" /></a>
+
+- 📖 Noldan yozilgan darslar
+- 🧩 **410 ta amaliy masala** (Abramyan va LeetCode asosida)
+- 💻 Brauzerning o'zida ishlaydigan **Go kod muharriri**
+- 🎯 Boshlovchilar, intervyu va olimpiadaga tayyorlanuvchilar uchun
+
+`Go` `Next.js` `TypeScript` `Online Code Runner`
 
 ---
 
