@@ -72,7 +72,6 @@ Oliy matematika va matematik modellashtirish bo'yicha bepul o'zbekcha kurslar.
 ## 📊 Statistika
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShoxruxGo&show_icons=true&hide_border=true&count_private=true&theme=transparent" />
   <img height="165" src="https://streak-stats.demolab.com?user=ShoxruxGo&hide_border=true&theme=transparent" />
 </p>
 
