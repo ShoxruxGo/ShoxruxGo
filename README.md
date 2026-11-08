@@ -20,7 +20,7 @@
 ### 🧠 [idrok.io](https://idrok.io) — *"Yodlamang — idrok eting."*
 Milliy sertifikat va o'qituvchilar attestatsiyasiga tayyorlov uchun matematika platformasi.
 
-<a href="https://idrok.io"><img src="assets/idrok.jpg" alt="idrok.io bosh sahifasi" width="100%" /></a>
+<a href="https://idrok.io"><img src="assets/idrok.png" alt="idrok.io bosh sahifasi" width="100%" /></a>
 
 - 📚 **23 mavzu · 134 dars · 2 680 ta yechilgan masala · 4 ta to'liq mock imtihon**
 - 🎬 Har bir masala doskada **ovozli animatsiya** bilan bosqichma-bosqich yechiladi
