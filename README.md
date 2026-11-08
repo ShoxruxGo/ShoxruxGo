@@ -20,7 +20,7 @@
 ### 🧠 [idrok.io](https://idrok.io) — *"Yodlamang — idrok eting."*
 Milliy sertifikat va o'qituvchilar attestatsiyasiga tayyorlov uchun matematika platformasi.
 
-- 📚 **23 mavzu · 134 dars · 2 680 ta yechilgan masala · 4 ta to'liq mock imtihon**
+- 📚 **23 mavzu · 134 dars · 2 680 ta yechilgan masala · 4 ta to'liq mock imtihon,hali masalalalr qo'shish davom etmoqda**
 - 🎬 Har bir masala doskada **ovozli animatsiya** bilan bosqichma-bosqich yechiladi
 - 📝 Mock imtihonlar haqiqiy format va vaqtda (45 savol, 2 soat 30 daqiqa)
 - 🔐 Telegram orqali parolsiz kirish, mobil va Telegram ichida ishlaydi
@@ -29,11 +29,11 @@ Milliy sertifikat va o'qituvchilar attestatsiyasiga tayyorlov uchun matematika p
 `TypeScript` `Next.js` `LaTeX` `Telegram Login` `Animatsiya`
 
 ### 🐹 [godasturchi.uz](https://godasturchi.uz) — *"Simple. Fast. Powerful."*
-O'zbek tilidagi bepul **Go (Golang)** o'quv platformasi.
+O'zbek tilidagi bepul **Go (Golang)** o'quv platformasi,sifatida boshlangan keyinchalik PostgreSQL, Data Structures,Python,C++ modullari ham qo'shilgan,interactiv ta'lim platformasi go,sql,python,c++ editorlar mavjud!
 
 - 📖 Noldan yozilgan darslar
 - 🧩 **410 ta amaliy masala** (Abramyan va LeetCode asosida)
-- 💻 Brauzerning o'zida ishlaydigan **Go kod muharriri**
+- 💻 Brauzerning o'zida ishlaydigan **Go,sql,python,c++ kod muharriri**
 - 🎯 Boshlovchilar, intervyu va olimpiadaga tayyorlanuvchilar uchun
 
 `Go` `Next.js` `TypeScript` `Online Code Runner`
@@ -42,7 +42,7 @@ O'zbek tilidagi bepul **Go (Golang)** o'quv platformasi.
 Oliy matematika va matematik modellashtirish bo'yicha bepul o'zbekcha kurslar.
 
 - 🎓 **11 kurs · 76 bob · 431 mavzu** — ro'yxatdan o'tishsiz, bepul
-- ∫ Algebra, Calculus I–III, Chiziqli algebra, Differensial tenglamalar, Sonli usullar, Optimallashtirish, Ehtimollar va boshqalar
+- ∫ Algebra, Calculus I–III, Chiziqli algebra, Differensial tenglamalar,Matematik Fizika tenglamalari, Sonli usullar, Optimallashtirish, Ehtimollar,Modellashtirish va boshqalar
 - 🧪 Brauzerda ishlaydigan **Python laboratoriya** (numpy, matplotlib, scipy)
 - 🌊 Interaktiv simulyatsiyalar va 6 bosqichli modellashtirish metodikasi
 
